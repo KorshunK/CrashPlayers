@@ -1,0 +1,19 @@
+{
+	"geode": "4.7.0",
+	"gd": {
+		"win": "2.2074",
+		"android": "2.2074",
+		"mac": "2.2074",
+		"ios": "2.2074"
+	},
+	"id": "korshun.crashplayers",
+	"name": "CrashPlayers",
+	"version": "v1.0.0",
+	"developer": "Korshun",
+	"description": "A useless mod for killing players on the menu",
+	"resources": {
+		"sprites": [
+			"resources/*.png"
+		]
+	}
+}
